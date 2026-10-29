@@ -4,7 +4,7 @@
     "slug": "RockPaperSnap",
     "version": "1.0.0",
     "orientation": "portrait",
-    "icon": "./assets/images/icon.png",
+    "icon": "D:\\Users\\desilva-ps22030\\Desktop\\Lab_05\\Mobile Appliaction Development 05\\RockPaperSnap\\RockPaperSnap\\assets\\images\\appIcon.jpg",
     "scheme": "rockpapersnap",
     "userInterfaceStyle": "automatic",
     "ios": {
